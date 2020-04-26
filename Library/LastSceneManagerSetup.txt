@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/user/Desktop/Shah/Assets/Scenes/ChessGame.unity
+  isLoaded: 1
+  isActive: 1
