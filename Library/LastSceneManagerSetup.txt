@@ -1,4 +1,4 @@
 sceneSetups:
-- path: C:/Users/user/Desktop/Shah/Assets/Scenes/ChessGame.unity
+- path: Assets/Scenes/Liveli 1.unity
   isLoaded: 1
   isActive: 1

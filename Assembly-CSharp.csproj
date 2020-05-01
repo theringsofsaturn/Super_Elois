@@ -51,7 +51,15 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Super_Elois_Assets\Scripts\Enemy Scripts\BirdScript.cs" />
+     <Compile Include="Assets\Super_Elois_Assets\Scripts\Enemy Scripts\EggScript.cs" />
+     <Compile Include="Assets\Super_Elois_Assets\Scripts\Enemy Scripts\SnailScripts.cs" />
+     <Compile Include="Assets\Super_Elois_Assets\Scripts\Helper Scripts\My Tags.cs" />
+     <Compile Include="Assets\Super_Elois_Assets\Scripts\Player Scripts\FireBullet.cs" />
      <Compile Include="Assets\Super_Elois_Assets\Scripts\Player Scripts\PlayerMovement.cs" />
+     <Compile Include="Assets\Super_Elois_Assets\Scripts\Player Scripts\PlayerShoot.cs" />
+     <None Include="Assets\Plugins\GitHub\Editor\credits.txt" />
+     <None Include="Assets\Plugins\GitHub\Editor\eula.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

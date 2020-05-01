@@ -8,6 +8,14 @@ public class PlayerMovement : MonoBehaviour {
 	private Rigidbody2D myBody; // Per fiziken
 	private Animator anim; // Per animimin e levizjes se lojtarit
 
+	public Transform groundCheckPosition;
+	public LayerMask groundLayer;
+
+	private bool IsGrounded;
+	private bool jumped;
+
+	public float jumpPower = 12f;
+
 	// Referenc per objektet
 	void Awake() // Funksioni i pare qe behet call kur fillojme lojen
 	{
@@ -22,6 +30,9 @@ public class PlayerMovement : MonoBehaviour {
 	
 	// Azhornohet per cdo frame (60 here ne sekond)
 	void Update () {
+
+		CheckIfGrounded();
+		playerJump();
 		
 	}
 
@@ -65,11 +76,31 @@ public class PlayerMovement : MonoBehaviour {
 		// transform.localScale.x = direction;
 	}
 
-	void OnCollisionEnter2D(Collision2D target)
+	void CheckIfGrounded()
 	{
-		if(target.gameObject.tag == "Ground")
+		IsGrounded = Physics2D.Raycast(groundCheckPosition.position, Vector2.down, 0.1f, groundLayer);
+
+		if(IsGrounded)
+			// dhe kemi kercyer me perpara
 		{
-			print("Collided with the ground");
+			if(jumped)
+			{
+				jumped = false;
+
+				anim.SetBool("Jump", false);
+			}
+		}
+	}
+	void playerJump()
+	{
+		if(IsGrounded)
+		{
+			if(Input.GetKey(KeyCode.Space))
+			{
+				jumped = true;
+				myBody.velocity = new Vector2(myBody.velocity.x, jumpPower);
+				anim.SetBool("Jump", true);
+			}
 		}
 	}
 

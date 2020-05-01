@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Super Elois", "Assembly-CSharp.csproj", "{19DF8209-3C9D-5C19-F776-9E4C037DAABE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Super Elois", "Assembly-CSharp-Editor-firstpass.csproj", "{4446348A-DC48-1C42-797C-D828CA8E86F4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{19DF8209-3C9D-5C19-F776-9E4C037DAABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19DF8209-3C9D-5C19-F776-9E4C037DAABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19DF8209-3C9D-5C19-F776-9E4C037DAABE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4446348A-DC48-1C42-797C-D828CA8E86F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4446348A-DC48-1C42-797C-D828CA8E86F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4446348A-DC48-1C42-797C-D828CA8E86F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4446348A-DC48-1C42-797C-D828CA8E86F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
