@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-05-01T02:55:16.396+02:00
+  lastUpdatedAtString: 2020-05-01T02:57:14.960+02:00
   initializedAtString: 2020-05-01T02:08:53.752+02:00
   entries:
   - path: Assets\Super_Elois_Assets\Scripts\Enemy Scripts\BirdScript.cs
@@ -31,12 +31,6 @@ MonoBehaviour:
   - path: Library\gfu\cache\branches.yaml
     fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\gfu\cache\gitlocks.yaml
-    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\gfu\cache\gitlocks.yaml
-    projectPath: Library\gfu\cache\gitlocks.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -64,12 +58,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\InspectorExpandedItems.asset
-    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\InspectorExpandedItems.asset
-    projectPath: Library\InspectorExpandedItems.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\metadata\00\00000000000000005100000000000000
     fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\00\00000000000000005100000000000000
     projectPath: Library\metadata\00\00000000000000005100000000000000
@@ -82,60 +70,12 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\metadata\1f\1f640a0d20b6b57458fa5b19372a2267
-    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\1f\1f640a0d20b6b57458fa5b19372a2267
-    projectPath: Library\metadata\1f\1f640a0d20b6b57458fa5b19372a2267
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\1f\1f640a0d20b6b57458fa5b19372a2267.info
-    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\1f\1f640a0d20b6b57458fa5b19372a2267.info
-    projectPath: Library\metadata\1f\1f640a0d20b6b57458fa5b19372a2267.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\41\41a1161763a538f4d8084e49999b03d5
-    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\41\41a1161763a538f4d8084e49999b03d5
-    projectPath: Library\metadata\41\41a1161763a538f4d8084e49999b03d5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\41\41a1161763a538f4d8084e49999b03d5.info
-    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\41\41a1161763a538f4d8084e49999b03d5.info
-    projectPath: Library\metadata\41\41a1161763a538f4d8084e49999b03d5.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Library\metadata\d6\d6ad71d088bee6c449ad988f488aa1fa
     fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\d6\d6ad71d088bee6c449ad988f488aa1fa
     projectPath: Library\metadata\d6\d6ad71d088bee6c449ad988f488aa1fa
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\metadata\f2\f2ad5aabb6e4997458a67bbc2472e7fb
-    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\f2\f2ad5aabb6e4997458a67bbc2472e7fb
-    projectPath: Library\metadata\f2\f2ad5aabb6e4997458a67bbc2472e7fb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\f2\f2ad5aabb6e4997458a67bbc2472e7fb.info
-    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\f2\f2ad5aabb6e4997458a67bbc2472e7fb.info
-    projectPath: Library\metadata\f2\f2ad5aabb6e4997458a67bbc2472e7fb.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\f5\f53bfcec74352ea44a6aa35e3462cbef
-    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\f5\f53bfcec74352ea44a6aa35e3462cbef
-    projectPath: Library\metadata\f5\f53bfcec74352ea44a6aa35e3462cbef
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\metadata\f5\f53bfcec74352ea44a6aa35e3462cbef.info
-    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\f5\f53bfcec74352ea44a6aa35e3462cbef.info
-    projectPath: Library\metadata\f5\f53bfcec74352ea44a6aa35e3462cbef.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: Library\ScriptAssemblies\Assembly-CSharp.dll
     fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\ScriptAssemblies\Assembly-CSharp.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
@@ -181,6 +121,12 @@ MonoBehaviour:
   - path: Temp\UnityTempFile-69f9498c5256a4341a5a61db088f54a7
     fullPath: C:\Users\user\Documents\GitHub\Super Elois\Temp\UnityTempFile-69f9498c5256a4341a5a61db088f54a7
     projectPath: Temp\UnityTempFile-69f9498c5256a4341a5a61db088f54a7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-d701ad4879af28e40b74d2f6216dcd5f
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Temp\UnityTempFile-d701ad4879af28e40b74d2f6216dcd5f
+    projectPath: Temp\UnityTempFile-d701ad4879af28e40b74d2f6216dcd5f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1

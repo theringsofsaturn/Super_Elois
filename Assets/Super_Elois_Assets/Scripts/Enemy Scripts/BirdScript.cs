@@ -40,6 +40,7 @@ public class BirdScript : MonoBehaviour {
 	
 	void Update () {
 		MoveTheBird();
+		DropTheEgg();
 	}
 
 	void MoveTheBird() {
