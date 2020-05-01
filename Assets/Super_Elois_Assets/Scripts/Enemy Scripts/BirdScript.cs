@@ -28,10 +28,10 @@ public class BirdScript : MonoBehaviour {
 	
 	void Start () {
 		originPosition = transform.position;
-		originPosition.x += 6f;
+		originPosition.x += 15f;
 
 		movePosition = transform.position;
-		movePosition.x -= 6f;
+		movePosition.x -= 15f;
 
 		canMove = true;
 		
@@ -67,12 +67,12 @@ public class BirdScript : MonoBehaviour {
 		transform.localScale = tempScale;
 	}
 
-	void DropTheEgg() {
+	void DropTheEgg() { // Ben qe sapo te afrohet playeri zogu te leshoi vezen. 
 		if (!attacked) {
 			if (Physics2D.Raycast(transform.position, Vector2.down, Mathf.Infinity, playerLayer)) {
 				Instantiate(birdEgg, new Vector3(transform.position.x, transform.position.y - 1f, transform.position.z), Quaternion.identity);
 				attacked = true;
-				anim.Play("BirdFly");
+				anim.Play("BirdFly"); 
 			}
 		}
 	}

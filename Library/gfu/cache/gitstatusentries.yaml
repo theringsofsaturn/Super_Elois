@@ -12,13 +12,20 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-05-01T02:57:14.960+02:00
+  lastUpdatedAtString: 2020-05-01T03:27:23.009+02:00
   initializedAtString: 2020-05-01T02:08:53.752+02:00
   entries:
   - path: Assets\Super_Elois_Assets\Scripts\Enemy Scripts\BirdScript.cs
     fullPath: C:\Users\user\Documents\GitHub\Super Elois\Assets\Super_Elois_Assets\Scripts\Enemy
       Scripts\BirdScript.cs
     projectPath: Assets\Super_Elois_Assets\Scripts\Enemy Scripts\BirdScript.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Super_Elois_Assets\Scripts\Enemy Scripts\EggScript.cs
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Assets\Super_Elois_Assets\Scripts\Enemy
+      Scripts\EggScript.cs
+    projectPath: Assets\Super_Elois_Assets\Scripts\Enemy Scripts\EggScript.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -31,6 +38,12 @@ MonoBehaviour:
   - path: Library\gfu\cache\branches.yaml
     fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -70,6 +83,18 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\metadata\00\00000000000000009000000000000000
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\00\00000000000000009000000000000000
+    projectPath: Library\metadata\00\00000000000000009000000000000000
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\41\41a1161763a538f4d8084e49999b03d5
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\41\41a1161763a538f4d8084e49999b03d5
+    projectPath: Library\metadata\41\41a1161763a538f4d8084e49999b03d5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\metadata\d6\d6ad71d088bee6c449ad988f488aa1fa
     fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\d6\d6ad71d088bee6c449ad988f488aa1fa
     projectPath: Library\metadata\d6\d6ad71d088bee6c449ad988f488aa1fa
@@ -94,6 +119,12 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Temp\__Backupscenes\0.backup
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Temp\UnityLockfile
     fullPath: C:\Users\user\Documents\GitHub\Super Elois\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
@@ -106,15 +137,39 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: Temp\UnityTempFile-17db19123222dc543b27ff015e34a3da
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Temp\UnityTempFile-17db19123222dc543b27ff015e34a3da
+    projectPath: Temp\UnityTempFile-17db19123222dc543b27ff015e34a3da
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-2436ed35e90a5064d90c939f19a8ac02
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Temp\UnityTempFile-2436ed35e90a5064d90c939f19a8ac02
+    projectPath: Temp\UnityTempFile-2436ed35e90a5064d90c939f19a8ac02
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Temp\UnityTempFile-4097bc5b401155e43a14135626fcaa7d
     fullPath: C:\Users\user\Documents\GitHub\Super Elois\Temp\UnityTempFile-4097bc5b401155e43a14135626fcaa7d
     projectPath: Temp\UnityTempFile-4097bc5b401155e43a14135626fcaa7d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: Temp\UnityTempFile-470a1ee105ec6ae42b4fcde275eec75e
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Temp\UnityTempFile-470a1ee105ec6ae42b4fcde275eec75e
+    projectPath: Temp\UnityTempFile-470a1ee105ec6ae42b4fcde275eec75e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Temp\UnityTempFile-4c71181164adf7d4283c4fbe2fe16e17
     fullPath: C:\Users\user\Documents\GitHub\Super Elois\Temp\UnityTempFile-4c71181164adf7d4283c4fbe2fe16e17
     projectPath: Temp\UnityTempFile-4c71181164adf7d4283c4fbe2fe16e17
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-590916e7bda9df04fa458ccd8ce0819f
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Temp\UnityTempFile-590916e7bda9df04fa458ccd8ce0819f
+    projectPath: Temp\UnityTempFile-590916e7bda9df04fa458ccd8ce0819f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
