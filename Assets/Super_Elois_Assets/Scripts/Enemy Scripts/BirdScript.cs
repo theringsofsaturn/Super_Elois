@@ -11,7 +11,7 @@ public class BirdScript : MonoBehaviour {
 	private Vector3 originPosition;
 	private Vector3 movePosition;
 
-	private GameObject birdEgg;
+	public GameObject birdEgg;
 	public LayerMask playerLayer;
 	private bool attacked;
 

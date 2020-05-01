@@ -147,6 +147,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f3a735f9ad67e594c858532ae17ffbff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  fireBullet: {fileID: 1374632131346916, guid: c4b5738ccdbd6b041961f1d26c065188, type: 2}
 --- !u!114 &114346081001512738
 MonoBehaviour:
   m_ObjectHideFlags: 1
