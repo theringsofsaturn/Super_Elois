@@ -12,6 +12,118 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-05-01T02:05:49.722+02:00
-  initializedAtString: 2020-05-01T01:11:39.028+02:00
-  entries: []
+  lastUpdatedAtString: 2020-05-01T02:17:34.011+02:00
+  initializedAtString: 2020-05-01T02:08:53.752+02:00
+  entries:
+  - path: Assets\Scenes\Liveli 1.unity
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Assets\Scenes\Liveli 1.unity
+    projectPath: Assets\Scenes\Liveli 1.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Super_Elois_Assets\Prefabs\Enemy Prefabs\Bird.prefab
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Assets\Super_Elois_Assets\Prefabs\Enemy
+      Prefabs\Bird.prefab
+    projectPath: Assets\Super_Elois_Assets\Prefabs\Enemy Prefabs\Bird.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Super_Elois_Assets\Prefabs\Enemy Prefabs\Bird.prefab.meta
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Assets\Super_Elois_Assets\Prefabs\Enemy
+      Prefabs\Bird.prefab.meta
+    projectPath: Assets\Super_Elois_Assets\Prefabs\Enemy Prefabs\Bird.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Super_Elois_Assets\Prefabs\Enemy Prefabs\BirdEgg.prefab
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Assets\Super_Elois_Assets\Prefabs\Enemy
+      Prefabs\BirdEgg.prefab
+    projectPath: Assets\Super_Elois_Assets\Prefabs\Enemy Prefabs\BirdEgg.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Super_Elois_Assets\Prefabs\Enemy Prefabs\BirdEgg.prefab.meta
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Assets\Super_Elois_Assets\Prefabs\Enemy
+      Prefabs\BirdEgg.prefab.meta
+    projectPath: Assets\Super_Elois_Assets\Prefabs\Enemy Prefabs\BirdEgg.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\assetDatabase3
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\EditorInstance.json
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\00\00000000000000005100000000000000
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\00\00000000000000005100000000000000
+    projectPath: Library\metadata\00\00000000000000005100000000000000
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\00\00000000000000008000000000000000
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\00\00000000000000008000000000000000
+    projectPath: Library\metadata\00\00000000000000008000000000000000
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\1f\1f640a0d20b6b57458fa5b19372a2267
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\1f\1f640a0d20b6b57458fa5b19372a2267
+    projectPath: Library\metadata\1f\1f640a0d20b6b57458fa5b19372a2267
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\1f\1f640a0d20b6b57458fa5b19372a2267.info
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\1f\1f640a0d20b6b57458fa5b19372a2267.info
+    projectPath: Library\metadata\1f\1f640a0d20b6b57458fa5b19372a2267.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\f2\f2ad5aabb6e4997458a67bbc2472e7fb
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\f2\f2ad5aabb6e4997458a67bbc2472e7fb
+    projectPath: Library\metadata\f2\f2ad5aabb6e4997458a67bbc2472e7fb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\f2\f2ad5aabb6e4997458a67bbc2472e7fb.info
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\f2\f2ad5aabb6e4997458a67bbc2472e7fb.info
+    projectPath: Library\metadata\f2\f2ad5aabb6e4997458a67bbc2472e7fb.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityLockfile
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
