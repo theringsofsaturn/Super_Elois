@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-05-01T03:27:23.009+02:00
+  lastUpdatedAtString: 2020-05-01T04:03:48.846+02:00
   initializedAtString: 2020-05-01T02:08:53.752+02:00
   entries:
   - path: Assets\Super_Elois_Assets\Scripts\Enemy Scripts\BirdScript.cs
@@ -143,9 +143,21 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: Temp\UnityTempFile-1d7654a88ebc0ed408950f3ef9ccb306
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Temp\UnityTempFile-1d7654a88ebc0ed408950f3ef9ccb306
+    projectPath: Temp\UnityTempFile-1d7654a88ebc0ed408950f3ef9ccb306
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Temp\UnityTempFile-2436ed35e90a5064d90c939f19a8ac02
     fullPath: C:\Users\user\Documents\GitHub\Super Elois\Temp\UnityTempFile-2436ed35e90a5064d90c939f19a8ac02
     projectPath: Temp\UnityTempFile-2436ed35e90a5064d90c939f19a8ac02
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-32ffa58ee6099c746b188eb3ce48db09
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Temp\UnityTempFile-32ffa58ee6099c746b188eb3ce48db09
+    projectPath: Temp\UnityTempFile-32ffa58ee6099c746b188eb3ce48db09
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -179,15 +191,51 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: Temp\UnityTempFile-80d85912edf616e42929b1af1cd950b0
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Temp\UnityTempFile-80d85912edf616e42929b1af1cd950b0
+    projectPath: Temp\UnityTempFile-80d85912edf616e42929b1af1cd950b0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-8415ebc68cab20248af7292bbdfd9c21
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Temp\UnityTempFile-8415ebc68cab20248af7292bbdfd9c21
+    projectPath: Temp\UnityTempFile-8415ebc68cab20248af7292bbdfd9c21
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-9f701adf851f69d4c822d40a999b56d4
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Temp\UnityTempFile-9f701adf851f69d4c822d40a999b56d4
+    projectPath: Temp\UnityTempFile-9f701adf851f69d4c822d40a999b56d4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Temp\UnityTempFile-d701ad4879af28e40b74d2f6216dcd5f
     fullPath: C:\Users\user\Documents\GitHub\Super Elois\Temp\UnityTempFile-d701ad4879af28e40b74d2f6216dcd5f
     projectPath: Temp\UnityTempFile-d701ad4879af28e40b74d2f6216dcd5f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: Temp\UnityTempFile-edfdb65ddac3e11419aec4326d57cdd9
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Temp\UnityTempFile-edfdb65ddac3e11419aec4326d57cdd9
+    projectPath: Temp\UnityTempFile-edfdb65ddac3e11419aec4326d57cdd9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-f4f9cade270fffa408d8a4fca382607f
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Temp\UnityTempFile-f4f9cade270fffa408d8a4fca382607f
+    projectPath: Temp\UnityTempFile-f4f9cade270fffa408d8a4fca382607f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Temp\UnityTempFile-fc0e431616bc578468097c3490549be0
     fullPath: C:\Users\user\Documents\GitHub\Super Elois\Temp\UnityTempFile-fc0e431616bc578468097c3490549be0
     projectPath: Temp\UnityTempFile-fc0e431616bc578468097c3490549be0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-fdca2df88fa89ff4aa0d289de762da87
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Temp\UnityTempFile-fdca2df88fa89ff4aa0d289de762da87
+    projectPath: Temp\UnityTempFile-fdca2df88fa89ff4aa0d289de762da87
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1

@@ -76,4 +76,23 @@ public class BirdScript : MonoBehaviour {
 			}
 		}
 	}
+
+	IEnumerator BirdDead() {
+		yield return new WaitForSeconds(3f);
+		gameObject.SetActive(false);
+
+	}
+
+	void OnTriggerEnter2D(Collider2D target) {
+		if(target.tag == MyTags.BULLET_TAG) {
+			anim.Play("BirdDead");
+
+			GetComponent<BoxCollider2D>().isTrigger = true;
+			mybody.bodyType = RigidbodyType2D.Dynamic;
+
+			canMove = false;
+
+			StartCoroutine(BirdDead());
+		}
+	}
 }
