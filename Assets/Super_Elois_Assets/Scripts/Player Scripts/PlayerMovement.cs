@@ -14,7 +14,7 @@ public class PlayerMovement : MonoBehaviour {
 	private bool IsGrounded;
 	private bool jumped;
 
-	public float jumpPower = 12f;
+	public float jumpPower = 22f;
 
 	// Referenc per objektet
 	void Awake() // Funksioni i pare qe behet call kur fillojme lojen
