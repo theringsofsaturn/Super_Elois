@@ -51,8 +51,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Super_Elois_Assets\Scripts\Background Scripts\ScaleBackground.cs" />
      <Compile Include="Assets\Super_Elois_Assets\Scripts\Enemy Scripts\BirdScript.cs" />
      <Compile Include="Assets\Super_Elois_Assets\Scripts\Enemy Scripts\EggScript.cs" />
+     <Compile Include="Assets\Super_Elois_Assets\Scripts\Enemy Scripts\FrogScript.cs" />
      <Compile Include="Assets\Super_Elois_Assets\Scripts\Enemy Scripts\SnailScripts.cs" />
      <Compile Include="Assets\Super_Elois_Assets\Scripts\Enemy Scripts\SpiderScript.cs" />
      <Compile Include="Assets\Super_Elois_Assets\Scripts\Helper Scripts\My Tags.cs" />
