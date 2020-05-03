@@ -50,13 +50,13 @@ public class PlayerMovement : MonoBehaviour {
 		{
 			myBody.velocity = new Vector2(speed, myBody.velocity.y); // Vector 2 permban x dhe y (Vector 3 per 3D). Parametri i pare eshte per x dhe i dyti per y. Ktu nuk duam te vendosim shpejtesi per y ndaj vejme myBody.velocity.y (Vendosim vetem x qe ta levizim majtas ose djathtas)
 
-			ChangeDirection(1);
+			ChangeDirection(2);
 
 		} else if(h < 0) // Dmth po shkojme nga ana e majte (nr negativ)
 		{
 			myBody.velocity = new Vector2(-speed, myBody.velocity.y); // Velocity = Speed over Time
 
-			ChangeDirection(-1);
+			ChangeDirection(-2);
 
 		} else
 		{

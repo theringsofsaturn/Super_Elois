@@ -1,24 +1,27 @@
 fileFormatVersion: 2
 guid: 7a7860daa8ac0544a8a092799c5089a6
-timeCreated: 1587864452
+timeCreated: 1588542672
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
     21300000: Tileset_0_0
-    21300002: Tileset_0_1
-    21300004: Tileset_0_2
-    21300006: Tileset_0_3
-    21300008: Tileset_0_4
-    21300010: Tileset_0_5
-    21300012: Tileset_0_6
+    21300002: Tree
+    21300004: Tree2
+    21300006: Gardh
+    21300008: Trrung i vogel
+    21300010: Shkurre
+    21300012: SmeraldStone
     21300014: Tileset_0_7
     21300016: Tileset_0_8
-    21300018: Tileset_0_9
-    21300020: Tileset_0_10
+    21300018: Trrung i madh
+    21300020: WoodBridge
     21300022: Tileset_0_11
     21300024: Tileset_0_12
-    21300026: Tileset_0_13
+    21300026: Luledielli
     21300028: Tileset_0_14
+    21300030: Water
+    21300032: Jump_Ground
+    21300034: Stone
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -110,13 +113,13 @@ TextureImporter:
         width: 195
         height: 136
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 2}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Tileset_0_1
+      name: Tree
       rect:
         serializedVersion: 2
         x: 353
@@ -124,27 +127,27 @@ TextureImporter:
         width: 247
         height: 232
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Tileset_0_2
+      name: Tree2
       rect:
         serializedVersion: 2
-        x: 611
+        x: 622
         y: 204
-        width: 261
-        height: 264
+        width: 249
+        height: 263
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Tileset_0_3
+      name: Gardh
       rect:
         serializedVersion: 2
         x: 210
@@ -152,41 +155,41 @@ TextureImporter:
         width: 191
         height: 41
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Tileset_0_4
+      name: Trrung i vogel
       rect:
         serializedVersion: 2
-        x: 426
-        y: 135
+        x: 427
+        y: 134
         width: 103
         height: 40
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Tileset_0_5
+      name: Shkurre
       rect:
         serializedVersion: 2
-        x: 564
+        x: 565
         y: 136
         width: 92
         height: 60
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Tileset_0_6
+      name: SmeraldStone
       rect:
         serializedVersion: 2
         x: 681
@@ -194,7 +197,7 @@ TextureImporter:
         width: 67
         height: 65
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 1}
       outline: []
       physicsShape: []
@@ -204,11 +207,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 4
-        y: 67
+        y: 66
         width: 128
         height: 65
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -217,18 +220,18 @@ TextureImporter:
       name: Tileset_0_8
       rect:
         serializedVersion: 2
-        x: 136
-        y: 68
+        x: 137
+        y: 67
         width: 68
         height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Tileset_0_9
+      name: Trrung i madh
       rect:
         serializedVersion: 2
         x: 211
@@ -236,21 +239,21 @@ TextureImporter:
         width: 125
         height: 134
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Tileset_0_10
+      name: WoodBridge
       rect:
         serializedVersion: 2
         x: 376
-        y: 16
+        y: 14
         width: 137
         height: 62
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -264,7 +267,7 @@ TextureImporter:
         width: 132
         height: 120
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -278,21 +281,21 @@ TextureImporter:
         width: 132
         height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Tileset_0_13
+      name: Luledielli
       rect:
         serializedVersion: 2
-        x: 140
+        x: 141
         y: 0
         width: 61
         height: 44
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -306,7 +309,49 @@ TextureImporter:
         width: 65
         height: 66
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Water
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 340
+        width: 68
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump_Ground
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 146
+        width: 203
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stone
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 68
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []

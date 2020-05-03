@@ -50,12 +50,12 @@ public class BirdScript : MonoBehaviour {
 			if(transform.position.x >= originPosition.x) {
 				moveDirection = Vector3.left;
 
-				ChangeDirection(1f);
+				ChangeDirection(2f);
 			
 			} else if(transform.position.x <= movePosition.x) {
 				moveDirection = Vector3.right;
 
-				ChangeDirection(-1f);
+				ChangeDirection(-2f);
 			}
 		
 		}
