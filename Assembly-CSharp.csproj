@@ -52,6 +52,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Super_Elois_Assets\Scripts\Background Scripts\ScaleBackground.cs" />
+     <Compile Include="Assets\Super_Elois_Assets\Scripts\Camera Scripts\CameraFollow.cs" />
      <Compile Include="Assets\Super_Elois_Assets\Scripts\Enemy Scripts\BirdScript.cs" />
      <Compile Include="Assets\Super_Elois_Assets\Scripts\Enemy Scripts\EggScript.cs" />
      <Compile Include="Assets\Super_Elois_Assets\Scripts\Enemy Scripts\SnailScripts.cs" />

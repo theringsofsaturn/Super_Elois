@@ -21,10 +21,10 @@ MonoBehaviour:
     y: 30
     width: 1280
     height: 587
-  m_MinSize: {x: 709, y: 492}
-  m_MaxSize: {x: 18004, y: 14042}
+  m_MinSize: {x: 713, y: 492}
+  m_MaxSize: {x: 18008, y: 14042}
   vertical: 0
-  controlID: 3043
+  controlID: 114
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -124,7 +124,7 @@ MonoBehaviour:
   m_MinSize: {x: 232, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 2936
+  controlID: 48
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -293,19 +293,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Super_Elois_Assets/Sprites/Enemies
+    - Assets/Super_Elois_Assets/Scripts/Camera Scripts
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Super_Elois_Assets/Sprites/Enemies
+  - Assets/Super_Elois_Assets/Scripts/Camera Scripts
   m_LastFoldersGridSize: 16
   m_LastProjectPath: C:\Users\user\Documents\GitHub\Super Elois
   m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 79}
-    m_SelectedIDs: 12290000
-    m_LastClickedID: 10514
-    m_ExpandedIDs: 00000000a8270000d62700004e280000502800001229000066290000fa2c0000ffffff7f
+    scrollPos: {x: 0, y: 31}
+    m_SelectedIDs: 382f0000
+    m_LastClickedID: 12088
+    m_ExpandedIDs: 00000000a8270000d82700005028000052280000162900006a2900003e2d0000ffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -333,7 +333,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 90280000
     m_LastClickedID: 10384
-    m_ExpandedIDs: 00000000a8270000d62700004e280000502800001229000066290000fa2c0000ffffff7f
+    m_ExpandedIDs: 00000000a8270000d82700005028000052280000162900006a2900003e2d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -358,10 +358,10 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 00f5ffff
-    m_LastClickedInstanceID: -2816
-    m_HadKeyboardFocusLastEvent: 0
-    m_ExpandedInstanceIDs: c62300009e2d0000ee2d000000280000f22700006228000040290000142c0000ec2b0000ee2b00007629000006280000f22c0000a42b00006a2b0000f22b000080290000602c00005e2b00005c2d000026290000
+    m_SelectedInstanceIDs: 742e0000
+    m_LastClickedInstanceID: 11892
+    m_HadKeyboardFocusLastEvent: 1
+    m_ExpandedInstanceIDs: c62300009e2d0000ee2d000000280000f22700006228000040290000142c0000ec2b0000ee2b00007629000006280000f22c0000a42b00006a2b0000f22b000080290000602c00005e2b00005c2d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -385,7 +385,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 284}
+    m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 16
   m_DirectoriesAreaWidth: 277
 --- !u!114 &8
@@ -456,12 +456,8 @@ MonoBehaviour:
     - {x: 418.6, y: 130}
     - {x: 428.2, y: 142.8}
   m_PreviewAnimator: {fileID: 0}
-  m_AnimatorController: {fileID: 9100000, guid: 0639f5ec47cbdc849beba95d77b0c193,
-    type: 2}
-  m_BreadCrumbs:
-  - m_Target: {fileID: 1107709845287701904, guid: 0639f5ec47cbdc849beba95d77b0c193,
-      type: 2}
-    m_ScrollPosition: {x: 0, y: 0}
+  m_AnimatorController: {fileID: 0}
+  m_BreadCrumbs: []
   stateMachineGraph: {fileID: 0}
   stateMachineGraphGUI: {fileID: 0}
   blendTreeGraph: {fileID: 0}
@@ -634,8 +630,8 @@ MonoBehaviour:
     y: 0
     width: 204
     height: 587
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 204, y: 221}
+  m_MaxSize: {x: 4004, y: 4021}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -669,9 +665,9 @@ MonoBehaviour:
     height: 566
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 00f5ffff
-    m_LastClickedID: -2816
-    m_ExpandedIDs: 6ef5ffffa6fbffff00000000302e0000
+    m_SelectedIDs: 742e0000
+    m_LastClickedID: 11892
+    m_ExpandedIDs: 7ef5ffffa6fbffff00000000742e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -747,7 +743,7 @@ MonoBehaviour:
     y: 92
     width: 275
     height: 566
-  m_ScrollPosition: {x: 0, y: 20.955078}
+  m_ScrollPosition: {x: 0, y: 230.95508}
   m_InspectorMode: 0
   m_PreviewResizer:
     m_CachedPref: 160
@@ -2658,13 +2654,13 @@ MonoBehaviour:
       workTreeStatus: 1
     changedFilesText: 34 changed files
     lastCurrentBranchChangedEvent:
-      updatedTimeString: 2020-05-03T18:34:53.067+02:00
+      updatedTimeString: 2020-05-04T03:12:11.887+02:00
       cacheType: 1
     lastStatusEntriesChangedEvent:
-      updatedTimeString: 2020-05-03T18:49:22.025+02:00
+      updatedTimeString: 0001-01-01T00:00:00.000+00:00
       cacheType: 6
     lastLocksChangedEvent:
-      updatedTimeString: 2020-05-03T18:49:22.008+02:00
+      updatedTimeString: 0001-01-01T00:00:00.000+00:00
       cacheType: 7
   historyView:
     currentLogHasUpdate: 0
