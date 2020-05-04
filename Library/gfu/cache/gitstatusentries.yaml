@@ -12,49 +12,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-05-04T03:46:41.827+02:00
+  lastUpdatedAtString: 2020-05-04T03:47:01.455+02:00
   initializedAtString: 2020-05-04T03:12:11.971+02:00
   entries:
-  - path: .vs\Super Elois\v16\.suo
-    fullPath: C:\Users\user\Documents\GitHub\Super Elois\.vs\Super Elois\v16\.suo
-    projectPath: .vs\Super Elois\v16\.suo
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Super_Elois_Assets\Scripts\Camera Scripts\CameraFollow.cs
-    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Assets\Super_Elois_Assets\Scripts\Camera
-      Scripts\CameraFollow.cs
-    projectPath: Assets\Super_Elois_Assets\Scripts\Camera Scripts\CameraFollow.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\assetDatabase3
-    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\assetDatabase3
-    projectPath: Library\assetDatabase3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\CurrentMaximizeLayout.dwlt
-    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\CurrentMaximizeLayout.dwlt
-    projectPath: Library\CurrentMaximizeLayout.dwlt
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\gfu\cache\branches.yaml
     fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\gfu\cache\gitlocks.yaml
-    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\gfu\cache\gitlocks.yaml
-    projectPath: Library\gfu\cache\gitlocks.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\gfu\cache\gitlog.yaml
-    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\gfu\cache\gitlog.yaml
-    projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -67,60 +30,6 @@ MonoBehaviour:
   - path: Library\gfu\cache\gittrackingstatus.yaml
     fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\gfu\cache\repoinfo.yaml
-    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\gfu\cache\repoinfo.yaml
-    projectPath: Library\gfu\cache\repoinfo.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\00\00000000000000005100000000000000
-    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\00\00000000000000005100000000000000
-    projectPath: Library\metadata\00\00000000000000005100000000000000
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\00\00000000000000008000000000000000
-    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\00\00000000000000008000000000000000
-    projectPath: Library\metadata\00\00000000000000008000000000000000
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\00\00000000000000009000000000000000
-    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\00\00000000000000009000000000000000
-    projectPath: Library\metadata\00\00000000000000009000000000000000
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\a9\a953c41d5f1d3404586ac3e7296e511b
-    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\a9\a953c41d5f1d3404586ac3e7296e511b
-    projectPath: Library\metadata\a9\a953c41d5f1d3404586ac3e7296e511b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
-    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\ScriptAssemblies\Assembly-CSharp.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
-    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
-    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: ProjectSettings\TagManager.asset
-    fullPath: C:\Users\user\Documents\GitHub\Super Elois\ProjectSettings\TagManager.asset
-    projectPath: ProjectSettings\TagManager.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
