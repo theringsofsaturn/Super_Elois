@@ -9,6 +9,12 @@ TagManager:
   - Bullet
   - Snail
   - Spider
+  - Frog
+  - Water
+  - Coin
+  - GoldStoneFlower
+  - GoldStone
+  - Stone
   layers:
   - Default
   - TransparentFX
