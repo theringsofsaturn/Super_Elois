@@ -12,9 +12,297 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-05-04T03:33:06.060+02:00
+  lastUpdatedAtString: 2020-05-04T21:20:21.020+02:00
   initializedAtString: 2020-05-04T03:29:45.734+02:00
   log:
+  - commitID: 0b33de5dc46669d2c3853aa6d0dc189518fa45a0
+    mergeA: 
+    mergeB: 
+    authorName: Emilian Kasemi
+    authorEmail: theringsofsaturn@users.noreply.github.com
+    commitEmail: theringsofsaturn@users.noreply.github.com
+    commitName: Emilian Kasemi
+    summary: changes
+    description: 
+    timeString: 2020-05-04T05:42:32.000+02:00
+    commitTimeString: 2020-05-04T05:42:32.000+02:00
+    changes:
+    - path: .vs\Super Elois\v16\.suo
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\.vs\Super Elois\v16\.suo
+      projectPath: .vs\Super Elois\v16\.suo
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Super_Elois_Assets\Animations\Coin Animations\Coin.anim
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Assets\Super_Elois_Assets\Animations\Coin
+        Animations\Coin.anim
+      projectPath: Assets\Super_Elois_Assets\Animations\Coin Animations\Coin.anim
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Super_Elois_Assets\Animations\Coin Animations\Coin.anim.meta
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Assets\Super_Elois_Assets\Animations\Coin
+        Animations\Coin.anim.meta
+      projectPath: Assets\Super_Elois_Assets\Animations\Coin Animations\Coin.anim.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Super_Elois_Assets\Animations\Coin Animations\coin_0.controller
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Assets\Super_Elois_Assets\Animations\Coin
+        Animations\coin_0.controller
+      projectPath: Assets\Super_Elois_Assets\Animations\Coin Animations\coin_0.controller
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Super_Elois_Assets\Animations\Coin Animations\coin_0.controller.meta
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Assets\Super_Elois_Assets\Animations\Coin
+        Animations\coin_0.controller.meta
+      projectPath: Assets\Super_Elois_Assets\Animations\Coin Animations\coin_0.controller.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Super_Elois_Assets\Animations\Coin Animations\coin_1.controller
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Assets\Super_Elois_Assets\Animations\Coin
+        Animations\coin_1.controller
+      projectPath: Assets\Super_Elois_Assets\Animations\Coin Animations\coin_1.controller
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Super_Elois_Assets\Animations\Coin Animations\coin_1.controller.meta
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Assets\Super_Elois_Assets\Animations\Coin
+        Animations\coin_1.controller.meta
+      projectPath: Assets\Super_Elois_Assets\Animations\Coin Animations\coin_1.controller.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Super_Elois_Assets\Animations\Flag Animations.meta
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Assets\Super_Elois_Assets\Animations\Flag
+        Animations.meta
+      projectPath: Assets\Super_Elois_Assets\Animations\Flag Animations.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Super_Elois_Assets\Animations\Flag Animations\Flag.anim
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Assets\Super_Elois_Assets\Animations\Flag
+        Animations\Flag.anim
+      projectPath: Assets\Super_Elois_Assets\Animations\Flag Animations\Flag.anim
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Super_Elois_Assets\Animations\Flag Animations\Flag.anim.meta
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Assets\Super_Elois_Assets\Animations\Flag
+        Animations\Flag.anim.meta
+      projectPath: Assets\Super_Elois_Assets\Animations\Flag Animations\Flag.anim.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Super_Elois_Assets\Animations\Flag Animations\flag_waving2_0.controller
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Assets\Super_Elois_Assets\Animations\Flag
+        Animations\flag_waving2_0.controller
+      projectPath: Assets\Super_Elois_Assets\Animations\Flag Animations\flag_waving2_0.controller
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Super_Elois_Assets\Animations\Flag Animations\flag_waving2_0.controller.meta
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Assets\Super_Elois_Assets\Animations\Flag
+        Animations\flag_waving2_0.controller.meta
+      projectPath: Assets\Super_Elois_Assets\Animations\Flag Animations\flag_waving2_0.controller.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Super_Elois_Assets\Physics Materials.meta
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Assets\Super_Elois_Assets\Physics
+        Materials.meta
+      projectPath: Assets\Super_Elois_Assets\Physics Materials.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Super_Elois_Assets\Physics Materials\No Friction.physicsMaterial2D
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Assets\Super_Elois_Assets\Physics
+        Materials\No Friction.physicsMaterial2D
+      projectPath: Assets\Super_Elois_Assets\Physics Materials\No Friction.physicsMaterial2D
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Super_Elois_Assets\Physics Materials\No Friction.physicsMaterial2D.meta
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Assets\Super_Elois_Assets\Physics
+        Materials\No Friction.physicsMaterial2D.meta
+      projectPath: Assets\Super_Elois_Assets\Physics Materials\No Friction.physicsMaterial2D.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Super_Elois_Assets\Prefabs\Collectable Items\Coin.prefab
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Assets\Super_Elois_Assets\Prefabs\Collectable
+        Items\Coin.prefab
+      projectPath: Assets\Super_Elois_Assets\Prefabs\Collectable Items\Coin.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Super_Elois_Assets\Prefabs\Collectable Items\Coin.prefab.meta
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Assets\Super_Elois_Assets\Prefabs\Collectable
+        Items\Coin.prefab.meta
+      projectPath: Assets\Super_Elois_Assets\Prefabs\Collectable Items\Coin.prefab.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Super_Elois_Assets\Scripts\Player Scripts\PlayerMovement.cs
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Assets\Super_Elois_Assets\Scripts\Player
+        Scripts\PlayerMovement.cs
+      projectPath: Assets\Super_Elois_Assets\Scripts\Player Scripts\PlayerMovement.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 23056673db11f376337daaeb28b0bf5870dfdc1b
+    mergeA: 
+    mergeB: 
+    authorName: Emilian Kasemi
+    authorEmail: theringsofsaturn@users.noreply.github.com
+    commitEmail: theringsofsaturn@users.noreply.github.com
+    commitName: Emilian Kasemi
+    summary: changes
+    description: 
+    timeString: 2020-05-04T03:57:13.000+02:00
+    commitTimeString: 2020-05-04T03:57:13.000+02:00
+    changes:
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 0834c9fd9d440667321d109518f8a6b26213e235
+    mergeA: 
+    mergeB: 
+    authorName: Emilian Kasemi
+    authorEmail: theringsofsaturn@users.noreply.github.com
+    commitEmail: theringsofsaturn@users.noreply.github.com
+    commitName: Emilian Kasemi
+    summary: changes
+    description: 
+    timeString: 2020-05-04T03:46:58.000+02:00
+    commitTimeString: 2020-05-04T03:46:58.000+02:00
+    changes:
+    - path: .vs\Super Elois\v16\.suo
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\.vs\Super Elois\v16\.suo
+      projectPath: .vs\Super Elois\v16\.suo
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Super_Elois_Assets\Scripts\Camera Scripts\CameraFollow.cs
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Assets\Super_Elois_Assets\Scripts\Camera
+        Scripts\CameraFollow.cs
+      projectPath: Assets\Super_Elois_Assets\Scripts\Camera Scripts\CameraFollow.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\CurrentMaximizeLayout.dwlt
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\CurrentMaximizeLayout.dwlt
+      projectPath: Library\CurrentMaximizeLayout.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\assetDatabase3
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\00\00000000000000005100000000000000
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\00\00000000000000005100000000000000
+      projectPath: Library\metadata\00\00000000000000005100000000000000
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\00\00000000000000008000000000000000
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\00\00000000000000008000000000000000
+      projectPath: Library\metadata\00\00000000000000008000000000000000
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\00\00000000000000009000000000000000
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\00\00000000000000009000000000000000
+      projectPath: Library\metadata\00\00000000000000009000000000000000
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\a9\a953c41d5f1d3404586ac3e7296e511b
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\a9\a953c41d5f1d3404586ac3e7296e511b
+      projectPath: Library\metadata\a9\a953c41d5f1d3404586ac3e7296e511b
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: ProjectSettings\TagManager.asset
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: dde351d3abce1d2706f8a76504efbcceed914299
     mergeA: 
     mergeB: 

@@ -12,12 +12,91 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-05-04T03:47:01.455+02:00
-  initializedAtString: 2020-05-04T03:12:11.971+02:00
+  lastUpdatedAtString: 2020-05-04T21:25:01.616+02:00
+  initializedAtString: 2020-05-04T21:25:01.616+02:00
   entries:
+  - path: .vs\Super Elois\v16\.suo
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\.vs\Super Elois\v16\.suo
+    projectPath: .vs\Super Elois\v16\.suo
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scenes\Liveli 1.unity
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Assets\Scenes\Liveli 1.unity
+    projectPath: Assets\Scenes\Liveli 1.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Super_Elois_Assets\Scripts\Enemy Scripts\SpiderScript.cs
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Assets\Super_Elois_Assets\Scripts\Enemy
+      Scripts\SpiderScript.cs
+    projectPath: Assets\Super_Elois_Assets\Scripts\Enemy Scripts\SpiderScript.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Super_Elois_Assets\Sprites\Player.meta
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Assets\Super_Elois_Assets\Sprites\Player.meta
+    projectPath: Assets\Super_Elois_Assets\Sprites\Player.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Super_Elois_Assets\Sprites\Player\player_3c.png
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Assets\Super_Elois_Assets\Sprites\Player\player_3c.png
+    projectPath: Assets\Super_Elois_Assets\Sprites\Player\player_3c.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Super_Elois_Assets\Sprites\Player\player_3c.png.meta
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Assets\Super_Elois_Assets\Sprites\Player\player_3c.png.meta
+    projectPath: Assets\Super_Elois_Assets\Sprites\Player\player_3c.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\assetDatabase3
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\CurrentLayout.dwlt
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\CurrentLayout.dwlt
+    projectPath: Library\CurrentLayout.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\CurrentMaximizeLayout.dwlt
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\CurrentMaximizeLayout.dwlt
+    projectPath: Library\CurrentMaximizeLayout.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\EditorInstance.json
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\expandedItems
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\expandedItems
+    projectPath: Library\expandedItems
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\branches.yaml
     fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -33,27 +112,237 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Temp\__Backupscenes\0.backup
-    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Temp\__Backupscenes\0.backup
-    projectPath: Temp\__Backupscenes\0.backup
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\InspectorExpandedItems.asset
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\LastSceneManagerSetup.txt
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\LastSceneManagerSetup.txt
+    projectPath: Library\LastSceneManagerSetup.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\00\00000000000000003000000000000000
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\00\00000000000000003000000000000000
+    projectPath: Library\metadata\00\00000000000000003000000000000000
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\00\00000000000000005100000000000000
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\00\00000000000000005100000000000000
+    projectPath: Library\metadata\00\00000000000000005100000000000000
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\00\00000000000000008000000000000000
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\00\00000000000000008000000000000000
+    projectPath: Library\metadata\00\00000000000000008000000000000000
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\00\00000000000000009000000000000000
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\00\00000000000000009000000000000000
+    projectPath: Library\metadata\00\00000000000000009000000000000000
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\12\1235477dfbe560343b7d40868d23f8b1
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\12\1235477dfbe560343b7d40868d23f8b1
+    projectPath: Library\metadata\12\1235477dfbe560343b7d40868d23f8b1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\metadata\12\1235477dfbe560343b7d40868d23f8b1.info
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\12\1235477dfbe560343b7d40868d23f8b1.info
+    projectPath: Library\metadata\12\1235477dfbe560343b7d40868d23f8b1.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\metadata\54\54f0e92521961594f89dc3187000f511
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\54\54f0e92521961594f89dc3187000f511
+    projectPath: Library\metadata\54\54f0e92521961594f89dc3187000f511
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: Library\metadata\54\54f0e92521961594f89dc3187000f511.info
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\54\54f0e92521961594f89dc3187000f511.info
+    projectPath: Library\metadata\54\54f0e92521961594f89dc3187000f511.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\58\58410e00a218bc64088b9f5c105715e3
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\58\58410e00a218bc64088b9f5c105715e3
+    projectPath: Library\metadata\58\58410e00a218bc64088b9f5c105715e3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\58\58410e00a218bc64088b9f5c105715e3.info
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\58\58410e00a218bc64088b9f5c105715e3.info
+    projectPath: Library\metadata\58\58410e00a218bc64088b9f5c105715e3.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\6b\6b54f4332b173904c83ab470b1db6808
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\6b\6b54f4332b173904c83ab470b1db6808
+    projectPath: Library\metadata\6b\6b54f4332b173904c83ab470b1db6808
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\6b\6b54f4332b173904c83ab470b1db6808.info
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\6b\6b54f4332b173904c83ab470b1db6808.info
+    projectPath: Library\metadata\6b\6b54f4332b173904c83ab470b1db6808.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\79\79784a1219c30fd4d80731b660e6fadc
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\79\79784a1219c30fd4d80731b660e6fadc
+    projectPath: Library\metadata\79\79784a1219c30fd4d80731b660e6fadc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\79\79784a1219c30fd4d80731b660e6fadc.info
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\79\79784a1219c30fd4d80731b660e6fadc.info
+    projectPath: Library\metadata\79\79784a1219c30fd4d80731b660e6fadc.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\92\92de4fad73cd4c443bceb82e153b5aca
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\92\92de4fad73cd4c443bceb82e153b5aca
+    projectPath: Library\metadata\92\92de4fad73cd4c443bceb82e153b5aca
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\98\9870eb4f7a41e624d9e6d7c663db8a00
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\98\9870eb4f7a41e624d9e6d7c663db8a00
+    projectPath: Library\metadata\98\9870eb4f7a41e624d9e6d7c663db8a00
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\98\9870eb4f7a41e624d9e6d7c663db8a00.info
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\98\9870eb4f7a41e624d9e6d7c663db8a00.info
+    projectPath: Library\metadata\98\9870eb4f7a41e624d9e6d7c663db8a00.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\c5\c54c43846f669624ba7e3d3ca6108598
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\c5\c54c43846f669624ba7e3d3ca6108598
+    projectPath: Library\metadata\c5\c54c43846f669624ba7e3d3ca6108598
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\ce\ceebc324c60f7314f9760981d0534e9c
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\ce\ceebc324c60f7314f9760981d0534e9c
+    projectPath: Library\metadata\ce\ceebc324c60f7314f9760981d0534e9c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\metadata\ce\ceebc324c60f7314f9760981d0534e9c.info
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\ce\ceebc324c60f7314f9760981d0534e9c.info
+    projectPath: Library\metadata\ce\ceebc324c60f7314f9760981d0534e9c.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\metadata\d1\d173a195fea2cc44292ccf268ea60f3e
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\d1\d173a195fea2cc44292ccf268ea60f3e
+    projectPath: Library\metadata\d1\d173a195fea2cc44292ccf268ea60f3e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\e9\e9aa3ef89fb3850419160b71567df3d5
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\e9\e9aa3ef89fb3850419160b71567df3d5
+    projectPath: Library\metadata\e9\e9aa3ef89fb3850419160b71567df3d5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\e9\e9aa3ef89fb3850419160b71567df3d5.info
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\e9\e9aa3ef89fb3850419160b71567df3d5.info
+    projectPath: Library\metadata\e9\e9aa3ef89fb3850419160b71567df3d5.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\f7\f70518e633edf194297b2b20754f859a
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\f7\f70518e633edf194297b2b20754f859a
+    projectPath: Library\metadata\f7\f70518e633edf194297b2b20754f859a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\f7\f70518e633edf194297b2b20754f859a.info
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\f7\f70518e633edf194297b2b20754f859a.info
+    projectPath: Library\metadata\f7\f70518e633edf194297b2b20754f859a.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\f9\f99d9f52148820449b3c837f76e09704
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\f9\f99d9f52148820449b3c837f76e09704
+    projectPath: Library\metadata\f9\f99d9f52148820449b3c837f76e09704
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\metadata\f9\f99d9f52148820449b3c837f76e09704.info
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\f9\f99d9f52148820449b3c837f76e09704.info
+    projectPath: Library\metadata\f9\f99d9f52148820449b3c837f76e09704.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\metadata\fa\fa1524cc9ece1324fa9d93e307857081
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\fa\fa1524cc9ece1324fa9d93e307857081
+    projectPath: Library\metadata\fa\fa1524cc9ece1324fa9d93e307857081
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\fa\fa1524cc9ece1324fa9d93e307857081.info
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\fa\fa1524cc9ece1324fa9d93e307857081.info
+    projectPath: Library\metadata\fa\fa1524cc9ece1324fa9d93e307857081.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ShaderCache\0\075a5cc4bc7847dddee287e189b24ef8.bin
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\ShaderCache\0\075a5cc4bc7847dddee287e189b24ef8.bin
+    projectPath: Library\ShaderCache\0\075a5cc4bc7847dddee287e189b24ef8.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\1\11582d3b3379c4a37a7c311f74d2a4a1.bin
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\ShaderCache\1\11582d3b3379c4a37a7c311f74d2a4a1.bin
+    projectPath: Library\ShaderCache\1\11582d3b3379c4a37a7c311f74d2a4a1.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\TagManager.asset
+    fullPath: C:\Users\user\Documents\GitHub\Super Elois\ProjectSettings\TagManager.asset
+    projectPath: ProjectSettings\TagManager.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Temp\UnityLockfile
     fullPath: C:\Users\user\Documents\GitHub\Super Elois\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-3ce11b575f419d54d9f41b1c25a4a3e8
-    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Temp\UnityTempFile-3ce11b575f419d54d9f41b1c25a4a3e8
-    projectPath: Temp\UnityTempFile-3ce11b575f419d54d9f41b1c25a4a3e8
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-dc4809c40f77f974cae0bce658d0787e
-    fullPath: C:\Users\user\Documents\GitHub\Super Elois\Temp\UnityTempFile-dc4809c40f77f974cae0bce658d0787e
-    projectPath: Temp\UnityTempFile-dc4809c40f77f974cae0bce658d0787e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Children:
   - {fileID: 3}
-  - {fileID: 12}
+  - {fileID: 13}
   - {fileID: 14}
   m_Position:
     serializedVersion: 2
@@ -21,11 +21,189 @@ MonoBehaviour:
     y: 30
     width: 1280
     height: 587
-  m_MinSize: {x: 713, y: 492}
-  m_MaxSize: {x: 18008, y: 14042}
+  m_MinSize: {x: 707, y: 492}
+  m_MaxSize: {x: 18002, y: 14042}
   vertical: 0
-  controlID: 1521
+  controlID: 33843
 --- !u!114 &2
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12061, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_AutoRepaintOnSceneChange: 0
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Hierarchy
+    m_Image: {fileID: -590624980919486359, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_DepthBufferBits: 0
+  m_Pos:
+    serializedVersion: 2
+    x: 801
+    y: 92
+    width: 200
+    height: 566
+  m_TreeViewState:
+    scrollPos: {x: 0, y: 1387}
+    m_SelectedIDs: 2ed8f4ff
+    m_LastClickedID: -731090
+    m_ExpandedIDs: 96d7edffea0cfbff7ef5ffffa6fbffff00000000742e0000
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 0
+      m_ClientGUIView: {fileID: 13}
+    m_SearchString: 
+  m_ExpandedScenes:
+  - Scene 1
+  m_CurrenRootInstanceID: 0
+  m_Locked: 0
+  m_CurrentSortingName: TransformSorting
+--- !u!114 &3
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 4}
+  - {fileID: 7}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 799
+    height: 587
+  m_MinSize: {x: 232, y: 492}
+  m_MaxSize: {x: 10002, y: 14042}
+  vertical: 1
+  controlID: 33629
+--- !u!114 &4
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 799
+    height: 308
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
+  m_ActualView: {fileID: 6}
+  m_Panes:
+  - {fileID: 5}
+  - {fileID: 6}
+  m_Selected: 1
+  m_LastSelected: 0
+--- !u!114 &5
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12013, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_AutoRepaintOnSceneChange: 1
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Scene
+    m_Image: {fileID: 2318424515335265636, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_DepthBufferBits: 0
+  m_Pos:
+    serializedVersion: 2
+    x: 0
+    y: 92
+    width: 749
+    height: 287
+  m_SceneLighting: 1
+  lastFramingTime: 64519.4459088
+  m_2DMode: 1
+  m_isRotationLocked: 0
+  m_AudioPlay: 0
+  m_Position:
+    m_Target: {x: -17.402035, y: 1.932377, z: 92.134026}
+    speed: 2
+    m_Value: {x: -17.402035, y: 1.932377, z: 92.134026}
+  m_RenderMode: 0
+  m_ValidateTrueMetals: 0
+  m_SceneViewState:
+    showFog: 1
+    showMaterialUpdate: 0
+    showSkybox: 1
+    showFlares: 1
+    showImageEffects: 1
+  grid:
+    xGrid:
+      m_Target: 0
+      speed: 2
+      m_Value: 0
+    yGrid:
+      m_Target: 0
+      speed: 2
+      m_Value: 0
+    zGrid:
+      m_Target: 1
+      speed: 2
+      m_Value: 1
+  m_Rotation:
+    m_Target: {x: 0, y: 0, z: 0, w: 1}
+    speed: 2
+    m_Value: {x: 0, y: 0, z: 0, w: 1}
+  m_Size:
+    m_Target: 81.49691
+    speed: 2
+    m_Value: 81.49691
+  m_Ortho:
+    m_Target: 1
+    speed: 2
+    m_Value: 1
+  m_ShowGlobalGrid: 1
+  m_LastSceneViewRotation: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
+  m_LastSceneViewOrtho: 0
+  m_ReplacementShader: {fileID: 0}
+  m_ReplacementString: 
+  m_LastLockedObject: {fileID: 0}
+  m_ViewIsLockedToObject: 0
+--- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_PrefabParentObject: {fileID: 0}
@@ -48,7 +226,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 19
+    y: 92
     width: 797
     height: 287
   m_MaximizeOnPlay: 1
@@ -71,7 +249,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 0
+    m_EnableMouseInput: 1
     m_EnableSliderZoom: 0
     m_UniformScale: 1
     m_UpDirection: 1
@@ -101,132 +279,7 @@ MonoBehaviour:
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000100000100
---- !u!114 &3
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 1
-  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Children:
-  - {fileID: 4}
-  - {fileID: 6}
-  m_Position:
-    serializedVersion: 2
-    x: 0
-    y: 0
-    width: 799
-    height: 587
-  m_MinSize: {x: 232, y: 492}
-  m_MaxSize: {x: 10002, y: 14042}
-  vertical: 1
-  controlID: 1522
---- !u!114 &4
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 1
-  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Children: []
-  m_Position:
-    serializedVersion: 2
-    x: 0
-    y: 0
-    width: 799
-    height: 308
-  m_MinSize: {x: 202, y: 221}
-  m_MaxSize: {x: 4002, y: 4021}
-  m_ActualView: {fileID: 2}
-  m_Panes:
-  - {fileID: 5}
-  - {fileID: 2}
-  m_Selected: 1
-  m_LastSelected: 0
---- !u!114 &5
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 1
-  m_Script: {fileID: 12013, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_AutoRepaintOnSceneChange: 1
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_TitleContent:
-    m_Text: Scene
-    m_Image: {fileID: 2318424515335265636, guid: 0000000000000000d000000000000000,
-      type: 0}
-    m_Tooltip: 
-  m_DepthBufferBits: 0
-  m_Pos:
-    serializedVersion: 2
-    x: 0
-    y: 92
-    width: 797
-    height: 287
-  m_SceneLighting: 1
-  lastFramingTime: 5597.7144061
-  m_2DMode: 1
-  m_isRotationLocked: 0
-  m_AudioPlay: 0
-  m_Position:
-    m_Target: {x: 30.23881, y: 4.5333524, z: -0.671875}
-    speed: 2
-    m_Value: {x: 30.23881, y: 4.5333524, z: -0.671875}
-  m_RenderMode: 0
-  m_ValidateTrueMetals: 0
-  m_SceneViewState:
-    showFog: 1
-    showMaterialUpdate: 0
-    showSkybox: 1
-    showFlares: 1
-    showImageEffects: 1
-  grid:
-    xGrid:
-      m_Target: 0
-      speed: 2
-      m_Value: 0
-    yGrid:
-      m_Target: 0
-      speed: 2
-      m_Value: 0
-    zGrid:
-      m_Target: 1
-      speed: 2
-      m_Value: 1
-  m_Rotation:
-    m_Target: {x: 0, y: 0, z: 0, w: 1}
-    speed: 2
-    m_Value: {x: 0, y: 0, z: 0, w: 1}
-  m_Size:
-    m_Target: 67.6347
-    speed: 2
-    m_Value: 67.6347
-  m_Ortho:
-    m_Target: 1
-    speed: 2
-    m_Value: 1
-  m_ShowGlobalGrid: 1
-  m_LastSceneViewRotation: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
-  m_LastSceneViewOrtho: 0
-  m_ReplacementShader: {fileID: 0}
-  m_ReplacementString: 
-  m_LastLockedObject: {fileID: 0}
-  m_ViewIsLockedToObject: 0
---- !u!114 &6
+--- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_PrefabParentObject: {fileID: 0}
@@ -246,16 +299,16 @@ MonoBehaviour:
     height: 279
   m_MinSize: {x: 232, y: 271}
   m_MaxSize: {x: 10002, y: 10021}
-  m_ActualView: {fileID: 7}
+  m_ActualView: {fileID: 8}
   m_Panes:
-  - {fileID: 7}
   - {fileID: 8}
   - {fileID: 9}
   - {fileID: 10}
   - {fileID: 11}
+  - {fileID: 12}
   m_Selected: 0
   m_LastSelected: 3
---- !u!114 &7
+--- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_PrefabParentObject: {fileID: 0}
@@ -293,19 +346,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets
+    - Assets/Super_Elois_Assets/Scripts/Enemy Scripts
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets
+  - Assets/Super_Elois_Assets/Scripts/Enemy Scripts
   m_LastFoldersGridSize: 16
   m_LastProjectPath: C:\Users\user\Documents\GitHub\Super Elois
   m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 31}
-    m_SelectedIDs: a8270000
-    m_LastClickedID: 10152
-    m_ExpandedIDs: 00000000a8270000d82700005028000052280000162900006a2900003e2d0000ffffff7f
+    scrollPos: {x: 0, y: 159}
+    m_SelectedIDs: f42a0000
+    m_LastClickedID: 10996
+    m_ExpandedIDs: 00000000a8270000d82700005028000052280000162900006a2900003e2d00009c2d0000ffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -333,7 +386,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 90280000
     m_LastClickedID: 10384
-    m_ExpandedIDs: 00000000a8270000d82700005028000052280000162900006a2900003e2d0000ffffff7f
+    m_ExpandedIDs: 00000000a8270000d82700005028000052280000162900006a2900003e2d00009c2d0000ffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -358,10 +411,10 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 7cf5ffff
-    m_LastClickedInstanceID: -2692
-    m_HadKeyboardFocusLastEvent: 0
-    m_ExpandedInstanceIDs: c62300009e2d0000ee2d000000280000f22700006228000040290000142c0000ec2b0000ee2b00007629000006280000f22c0000a42b00006a2b0000f22b000080290000602c00005e2b00005c2d00007a2b00000e2c0000
+    m_SelectedInstanceIDs: 2ed8f4ff
+    m_LastClickedInstanceID: -731090
+    m_HadKeyboardFocusLastEvent: 1
+    m_ExpandedInstanceIDs: c62300009e2d0000ee2d000000280000f22700006228000040290000142c0000ec2b0000ee2b00007629000006280000f22c0000a42b00006a2b0000f22b000080290000602c00005e2b00005c2d00007a2b00000e2c0000bc2c0000b82a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -377,7 +430,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 6}
+      m_ClientGUIView: {fileID: 7}
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_InstanceID: 0
@@ -388,7 +441,7 @@ MonoBehaviour:
     m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 16
   m_DirectoriesAreaWidth: 277
---- !u!114 &8
+--- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_PrefabParentObject: {fileID: 0}
@@ -416,7 +469,7 @@ MonoBehaviour:
     height: 258
   m_AnimEditor: {fileID: 0}
   m_Locked: 0
---- !u!114 &9
+--- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_PrefabParentObject: {fileID: 0}
@@ -456,8 +509,12 @@ MonoBehaviour:
     - {x: 418.6, y: 130}
     - {x: 428.2, y: 142.8}
   m_PreviewAnimator: {fileID: 0}
-  m_AnimatorController: {fileID: 0}
-  m_BreadCrumbs: []
+  m_AnimatorController: {fileID: 9100000, guid: 05198570c805cda409298ecb48814e7e,
+    type: 2}
+  m_BreadCrumbs:
+  - m_Target: {fileID: 1107486533078248512, guid: 05198570c805cda409298ecb48814e7e,
+      type: 2}
+    m_ScrollPosition: {x: 0, y: 0}
   stateMachineGraph: {fileID: 0}
   stateMachineGraphGUI: {fileID: 0}
   blendTreeGraph: {fileID: 0}
@@ -468,7 +525,7 @@ MonoBehaviour:
   m_CurrentEditor: 1
   m_LayerEditor:
     m_SelectedLayerIndex: 0
---- !u!114 &10
+--- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_PrefabParentObject: {fileID: 0}
@@ -494,7 +551,7 @@ MonoBehaviour:
     y: 400
     width: 797
     height: 258
---- !u!114 &11
+--- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_PrefabParentObject: {fileID: 0}
@@ -612,7 +669,7 @@ MonoBehaviour:
   m_ShowReferencedBuses: 1
   m_ShowBusConnections: 0
   m_ShowBusConnectionsOfSelection: 0
---- !u!114 &12
+--- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_PrefabParentObject: {fileID: 0}
@@ -632,64 +689,11 @@ MonoBehaviour:
     height: 587
   m_MinSize: {x: 204, y: 221}
   m_MaxSize: {x: 4004, y: 4021}
-  m_ActualView: {fileID: 13}
+  m_ActualView: {fileID: 2}
   m_Panes:
-  - {fileID: 13}
+  - {fileID: 2}
   m_Selected: 0
   m_LastSelected: 0
---- !u!114 &13
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 1
-  m_Script: {fileID: 12061, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_AutoRepaintOnSceneChange: 0
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_TitleContent:
-    m_Text: Hierarchy
-    m_Image: {fileID: -590624980919486359, guid: 0000000000000000d000000000000000,
-      type: 0}
-    m_Tooltip: 
-  m_DepthBufferBits: 0
-  m_Pos:
-    serializedVersion: 2
-    x: 801
-    y: 92
-    width: 200
-    height: 566
-  m_TreeViewState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 7cf5ffff
-    m_LastClickedID: -2692
-    m_ExpandedIDs: 7ef5ffffa6fbffff00000000742e0000
-    m_RenameOverlay:
-      m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
-      m_EditFieldRect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 0
-        height: 0
-      m_UserData: 0
-      m_IsWaitingForDelay: 0
-      m_IsRenaming: 0
-      m_OriginalEventType: 11
-      m_IsRenamingFilename: 0
-      m_ClientGUIView: {fileID: 12}
-    m_SearchString: 
-  m_ExpandedScenes:
-  - Scene 1
-  m_CurrenRootInstanceID: 0
-  m_Locked: 0
-  m_CurrentSortingName: TransformSorting
 --- !u!114 &14
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -817,7 +821,7 @@ MonoBehaviour:
   currentTrackingStatusHasUpdate: 0
   currentStatusEntriesHasUpdate: 0
   repositoryProgressHasUpdate: 1
-  appManagerProgressHasUpdate: 0
+  appManagerProgressHasUpdate: 1
   changeTab: 3
   activeTab: 3
   initProjectView:
@@ -993,9 +997,9 @@ MonoBehaviour:
     currentStatusEntriesHasUpdate: 1
     currentLocksHasUpdate: 1
     commitBody: 
-    commitMessage: changes
+    commitMessage: 
     currentBranch: '[master]'
-    treeScroll: {x: 0, y: 3}
+    treeScroll: {x: 0, y: 0}
     treeChanges:
       assets:
         keys:
@@ -1010,7 +1014,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 1
+          checkState: 0
           isLocked: 0
           gitStatusEntry:
             path: ProjectSettings\TagManager.asset
@@ -1024,6 +1028,20 @@ MonoBehaviour:
         - Library
         - Library\gfu
         - Library\gfu\cache
+        - Library\metadata
+        - Library\metadata\00
+        - Library\metadata\54
+        - Library\metadata\58
+        - Library\metadata\6b
+        - Library\metadata\79
+        - Library\metadata\92
+        - Library\metadata\98
+        - Library\metadata\c5
+        - Library\metadata\ce
+        - Library\metadata\e9
+        - Library\metadata\f7
+        - Library\metadata\fa
+        - Library\ScriptAssemblies
         - ProjectSettings
         - Temp
         - Temp\__Backupscenes
@@ -1037,7 +1055,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 1
+          checkState: 0
           isLocked: 0
           gitStatusEntry:
             path: 
@@ -1055,7 +1073,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 1
+          checkState: 0
           isLocked: 0
           gitStatusEntry:
             path: 
@@ -1073,7 +1091,259 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Library\metadata
+          label: metadata
+          level: 1
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Library\metadata\00
+          label: 00
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Library\metadata\54
+          label: 54
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Library\metadata\58
+          label: 58
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Library\metadata\6b
+          label: 6b
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Library\metadata\79
+          label: 79
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Library\metadata\92
+          label: 92
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Library\metadata\98
+          label: 98
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Library\metadata\c5
+          label: c5
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Library\metadata\ce
+          label: ce
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Library\metadata\e9
+          label: e9
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Library\metadata\f7
+          label: f7
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Library\metadata\fa
+          label: fa
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Library\ScriptAssemblies
+          label: ScriptAssemblies
+          level: 1
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
           isLocked: 0
           gitStatusEntry:
             path: 
@@ -1091,7 +1361,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 1
+          checkState: 0
           isLocked: 0
           gitStatusEntry:
             path: 
@@ -1109,7 +1379,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 1
+          checkState: 0
           isLocked: 0
           gitStatusEntry:
             path: 
@@ -1127,7 +1397,7 @@ MonoBehaviour:
           isHidden: 0
           isActive: 0
           treeIsCheckable: 1
-          checkState: 1
+          checkState: 0
           isLocked: 0
           gitStatusEntry:
             path: 
@@ -1137,160 +1407,8 @@ MonoBehaviour:
             indexStatus: 0
             workTreeStatus: 0
       checkedFileNodes:
-        keys:
-        - Library\gfu\cache\branches.yaml
-        - Library\gfu\cache\gitstatusentries.yaml
-        - Library\gfu\cache\gittrackingstatus.yaml
-        - Library\shadercompiler-UnityShaderCompiler.exe0.log
-        - ProjectSettings\TagManager.asset
-        - Temp\__Backupscenes\0.backup
-        - Temp\UnityLockfile
-        - Temp\UnityTempFile-dc4809c40f77f974cae0bce658d0787e
-        values:
-        - path: Library\gfu\cache\branches.yaml
-          label: branches.yaml
-          level: 3
-          isFolder: 0
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: Library\gfu\cache\branches.yaml
-            fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\gfu\cache\branches.yaml
-            projectPath: Library\gfu\cache\branches.yaml
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 3
-        - path: Library\gfu\cache\gitstatusentries.yaml
-          label: gitstatusentries.yaml
-          level: 3
-          isFolder: 0
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: Library\gfu\cache\gitstatusentries.yaml
-            fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\gfu\cache\gitstatusentries.yaml
-            projectPath: Library\gfu\cache\gitstatusentries.yaml
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 3
-        - path: Library\gfu\cache\gittrackingstatus.yaml
-          label: gittrackingstatus.yaml
-          level: 3
-          isFolder: 0
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: Library\gfu\cache\gittrackingstatus.yaml
-            fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\gfu\cache\gittrackingstatus.yaml
-            projectPath: Library\gfu\cache\gittrackingstatus.yaml
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 3
-        - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
-          label: shadercompiler-UnityShaderCompiler.exe0.log
-          level: 1
-          isFolder: 0
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: Library\shadercompiler-UnityShaderCompiler.exe0.log
-            fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\shadercompiler-UnityShaderCompiler.exe0.log
-            projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 3
-        - path: ProjectSettings\TagManager.asset
-          label: TagManager.asset
-          level: 1
-          isFolder: 0
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: ProjectSettings\TagManager.asset
-            fullPath: C:\Users\user\Documents\GitHub\Super Elois\ProjectSettings\TagManager.asset
-            projectPath: ProjectSettings\TagManager.asset
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 3
-        - path: Temp\__Backupscenes\0.backup
-          label: 0.backup
-          level: 2
-          isFolder: 0
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: Temp\__Backupscenes\0.backup
-            fullPath: C:\Users\user\Documents\GitHub\Super Elois\Temp\__Backupscenes\0.backup
-            projectPath: Temp\__Backupscenes\0.backup
-            originalPath: 
-            indexStatus: 1
-            workTreeStatus: 1
-        - path: Temp\UnityLockfile
-          label: UnityLockfile
-          level: 1
-          isFolder: 0
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: Temp\UnityLockfile
-            fullPath: C:\Users\user\Documents\GitHub\Super Elois\Temp\UnityLockfile
-            projectPath: Temp\UnityLockfile
-            originalPath: 
-            indexStatus: 1
-            workTreeStatus: 1
-        - path: Temp\UnityTempFile-dc4809c40f77f974cae0bce658d0787e
-          label: UnityTempFile-dc4809c40f77f974cae0bce658d0787e
-          level: 1
-          isFolder: 0
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: Temp\UnityTempFile-dc4809c40f77f974cae0bce658d0787e
-            fullPath: C:\Users\user\Documents\GitHub\Super Elois\Temp\UnityTempFile-dc4809c40f77f974cae0bce658d0787e
-            projectPath: Temp\UnityTempFile-dc4809c40f77f974cae0bce658d0787e
-            originalPath: 
-            indexStatus: 1
-            workTreeStatus: 1
+        keys: []
+        values: []
       title: 
       pathSeparator: \
       displayRootNode: 0
@@ -1325,7 +1443,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 1
+        checkState: 0
         isLocked: 0
         gitStatusEntry:
           path: 
@@ -1334,6 +1452,42 @@ MonoBehaviour:
           originalPath: 
           indexStatus: 0
           workTreeStatus: 0
+      - path: Library\assetDatabase3
+        label: assetDatabase3
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library\assetDatabase3
+          fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\assetDatabase3
+          projectPath: Library\assetDatabase3
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Library\CurrentMaximizeLayout.dwlt
+        label: CurrentMaximizeLayout.dwlt
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library\CurrentMaximizeLayout.dwlt
+          fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\CurrentMaximizeLayout.dwlt
+          projectPath: Library\CurrentMaximizeLayout.dwlt
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
       - path: Library\gfu
         label: gfu
         level: 1
@@ -1343,7 +1497,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 1
+        checkState: 0
         isLocked: 0
         gitStatusEntry:
           path: 
@@ -1361,7 +1515,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 1
+        checkState: 0
         isLocked: 0
         gitStatusEntry:
           path: 
@@ -1379,12 +1533,48 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 1
+        checkState: 0
         isLocked: 0
         gitStatusEntry:
           path: Library\gfu\cache\branches.yaml
           fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\gfu\cache\branches.yaml
           projectPath: Library\gfu\cache\branches.yaml
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Library\gfu\cache\gitlocks.yaml
+        label: gitlocks.yaml
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library\gfu\cache\gitlocks.yaml
+          fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\gfu\cache\gitlocks.yaml
+          projectPath: Library\gfu\cache\gitlocks.yaml
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Library\gfu\cache\gitlog.yaml
+        label: gitlog.yaml
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library\gfu\cache\gitlog.yaml
+          fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\gfu\cache\gitlog.yaml
+          projectPath: Library\gfu\cache\gitlog.yaml
           originalPath: 
           indexStatus: 0
           workTreeStatus: 3
@@ -1397,7 +1587,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 1
+        checkState: 0
         isLocked: 0
         gitStatusEntry:
           path: Library\gfu\cache\gitstatusentries.yaml
@@ -1415,7 +1605,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 1
+        checkState: 0
         isLocked: 0
         gitStatusEntry:
           path: Library\gfu\cache\gittrackingstatus.yaml
@@ -1424,8 +1614,26 @@ MonoBehaviour:
           originalPath: 
           indexStatus: 0
           workTreeStatus: 3
-      - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
-        label: shadercompiler-UnityShaderCompiler.exe0.log
+      - path: Library\gfu\cache\repoinfo.yaml
+        label: repoinfo.yaml
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library\gfu\cache\repoinfo.yaml
+          fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\gfu\cache\repoinfo.yaml
+          projectPath: Library\gfu\cache\repoinfo.yaml
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Library\InspectorExpandedItems.asset
+        label: InspectorExpandedItems.asset
         level: 1
         isFolder: 0
         isContainer: 0
@@ -1433,12 +1641,732 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 1
+        checkState: 0
         isLocked: 0
         gitStatusEntry:
-          path: Library\shadercompiler-UnityShaderCompiler.exe0.log
-          fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\shadercompiler-UnityShaderCompiler.exe0.log
-          projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+          path: Library\InspectorExpandedItems.asset
+          fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\InspectorExpandedItems.asset
+          projectPath: Library\InspectorExpandedItems.asset
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Library\metadata
+        label: metadata
+        level: 1
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Library\metadata\00
+        label: 00
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Library\metadata\00\00000000000000003000000000000000
+        label: 00000000000000003000000000000000
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library\metadata\00\00000000000000003000000000000000
+          fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\00\00000000000000003000000000000000
+          projectPath: Library\metadata\00\00000000000000003000000000000000
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Library\metadata\00\00000000000000005100000000000000
+        label: 00000000000000005100000000000000
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library\metadata\00\00000000000000005100000000000000
+          fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\00\00000000000000005100000000000000
+          projectPath: Library\metadata\00\00000000000000005100000000000000
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Library\metadata\00\00000000000000008000000000000000
+        label: 00000000000000008000000000000000
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library\metadata\00\00000000000000008000000000000000
+          fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\00\00000000000000008000000000000000
+          projectPath: Library\metadata\00\00000000000000008000000000000000
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Library\metadata\00\00000000000000009000000000000000
+        label: 00000000000000009000000000000000
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library\metadata\00\00000000000000009000000000000000
+          fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\00\00000000000000009000000000000000
+          projectPath: Library\metadata\00\00000000000000009000000000000000
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Library\metadata\54
+        label: 54
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Library\metadata\54\54f0e92521961594f89dc3187000f511
+        label: 54f0e92521961594f89dc3187000f511
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library\metadata\54\54f0e92521961594f89dc3187000f511
+          fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\54\54f0e92521961594f89dc3187000f511
+          projectPath: Library\metadata\54\54f0e92521961594f89dc3187000f511
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Library\metadata\54\54f0e92521961594f89dc3187000f511.info
+        label: 54f0e92521961594f89dc3187000f511.info
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library\metadata\54\54f0e92521961594f89dc3187000f511.info
+          fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\54\54f0e92521961594f89dc3187000f511.info
+          projectPath: Library\metadata\54\54f0e92521961594f89dc3187000f511.info
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Library\metadata\58
+        label: 58
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Library\metadata\58\58410e00a218bc64088b9f5c105715e3
+        label: 58410e00a218bc64088b9f5c105715e3
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library\metadata\58\58410e00a218bc64088b9f5c105715e3
+          fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\58\58410e00a218bc64088b9f5c105715e3
+          projectPath: Library\metadata\58\58410e00a218bc64088b9f5c105715e3
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Library\metadata\58\58410e00a218bc64088b9f5c105715e3.info
+        label: 58410e00a218bc64088b9f5c105715e3.info
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library\metadata\58\58410e00a218bc64088b9f5c105715e3.info
+          fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\58\58410e00a218bc64088b9f5c105715e3.info
+          projectPath: Library\metadata\58\58410e00a218bc64088b9f5c105715e3.info
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Library\metadata\6b
+        label: 6b
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Library\metadata\6b\6b54f4332b173904c83ab470b1db6808
+        label: 6b54f4332b173904c83ab470b1db6808
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library\metadata\6b\6b54f4332b173904c83ab470b1db6808
+          fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\6b\6b54f4332b173904c83ab470b1db6808
+          projectPath: Library\metadata\6b\6b54f4332b173904c83ab470b1db6808
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Library\metadata\6b\6b54f4332b173904c83ab470b1db6808.info
+        label: 6b54f4332b173904c83ab470b1db6808.info
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library\metadata\6b\6b54f4332b173904c83ab470b1db6808.info
+          fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\6b\6b54f4332b173904c83ab470b1db6808.info
+          projectPath: Library\metadata\6b\6b54f4332b173904c83ab470b1db6808.info
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Library\metadata\79
+        label: 79
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Library\metadata\79\79784a1219c30fd4d80731b660e6fadc
+        label: 79784a1219c30fd4d80731b660e6fadc
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library\metadata\79\79784a1219c30fd4d80731b660e6fadc
+          fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\79\79784a1219c30fd4d80731b660e6fadc
+          projectPath: Library\metadata\79\79784a1219c30fd4d80731b660e6fadc
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Library\metadata\79\79784a1219c30fd4d80731b660e6fadc.info
+        label: 79784a1219c30fd4d80731b660e6fadc.info
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library\metadata\79\79784a1219c30fd4d80731b660e6fadc.info
+          fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\79\79784a1219c30fd4d80731b660e6fadc.info
+          projectPath: Library\metadata\79\79784a1219c30fd4d80731b660e6fadc.info
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Library\metadata\92
+        label: 92
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Library\metadata\92\92de4fad73cd4c443bceb82e153b5aca
+        label: 92de4fad73cd4c443bceb82e153b5aca
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library\metadata\92\92de4fad73cd4c443bceb82e153b5aca
+          fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\92\92de4fad73cd4c443bceb82e153b5aca
+          projectPath: Library\metadata\92\92de4fad73cd4c443bceb82e153b5aca
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Library\metadata\98
+        label: 98
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Library\metadata\98\9870eb4f7a41e624d9e6d7c663db8a00
+        label: 9870eb4f7a41e624d9e6d7c663db8a00
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library\metadata\98\9870eb4f7a41e624d9e6d7c663db8a00
+          fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\98\9870eb4f7a41e624d9e6d7c663db8a00
+          projectPath: Library\metadata\98\9870eb4f7a41e624d9e6d7c663db8a00
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Library\metadata\98\9870eb4f7a41e624d9e6d7c663db8a00.info
+        label: 9870eb4f7a41e624d9e6d7c663db8a00.info
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library\metadata\98\9870eb4f7a41e624d9e6d7c663db8a00.info
+          fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\98\9870eb4f7a41e624d9e6d7c663db8a00.info
+          projectPath: Library\metadata\98\9870eb4f7a41e624d9e6d7c663db8a00.info
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Library\metadata\c5
+        label: c5
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Library\metadata\c5\c54c43846f669624ba7e3d3ca6108598
+        label: c54c43846f669624ba7e3d3ca6108598
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library\metadata\c5\c54c43846f669624ba7e3d3ca6108598
+          fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\c5\c54c43846f669624ba7e3d3ca6108598
+          projectPath: Library\metadata\c5\c54c43846f669624ba7e3d3ca6108598
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Library\metadata\ce
+        label: ce
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Library\metadata\ce\ceebc324c60f7314f9760981d0534e9c
+        label: ceebc324c60f7314f9760981d0534e9c
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library\metadata\ce\ceebc324c60f7314f9760981d0534e9c
+          fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\ce\ceebc324c60f7314f9760981d0534e9c
+          projectPath: Library\metadata\ce\ceebc324c60f7314f9760981d0534e9c
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 5
+      - path: Library\metadata\ce\ceebc324c60f7314f9760981d0534e9c.info
+        label: ceebc324c60f7314f9760981d0534e9c.info
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library\metadata\ce\ceebc324c60f7314f9760981d0534e9c.info
+          fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\ce\ceebc324c60f7314f9760981d0534e9c.info
+          projectPath: Library\metadata\ce\ceebc324c60f7314f9760981d0534e9c.info
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 5
+      - path: Library\metadata\e9
+        label: e9
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Library\metadata\e9\e9aa3ef89fb3850419160b71567df3d5
+        label: e9aa3ef89fb3850419160b71567df3d5
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library\metadata\e9\e9aa3ef89fb3850419160b71567df3d5
+          fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\e9\e9aa3ef89fb3850419160b71567df3d5
+          projectPath: Library\metadata\e9\e9aa3ef89fb3850419160b71567df3d5
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Library\metadata\e9\e9aa3ef89fb3850419160b71567df3d5.info
+        label: e9aa3ef89fb3850419160b71567df3d5.info
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library\metadata\e9\e9aa3ef89fb3850419160b71567df3d5.info
+          fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\e9\e9aa3ef89fb3850419160b71567df3d5.info
+          projectPath: Library\metadata\e9\e9aa3ef89fb3850419160b71567df3d5.info
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Library\metadata\f7
+        label: f7
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Library\metadata\f7\f70518e633edf194297b2b20754f859a
+        label: f70518e633edf194297b2b20754f859a
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library\metadata\f7\f70518e633edf194297b2b20754f859a
+          fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\f7\f70518e633edf194297b2b20754f859a
+          projectPath: Library\metadata\f7\f70518e633edf194297b2b20754f859a
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Library\metadata\f7\f70518e633edf194297b2b20754f859a.info
+        label: f70518e633edf194297b2b20754f859a.info
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library\metadata\f7\f70518e633edf194297b2b20754f859a.info
+          fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\f7\f70518e633edf194297b2b20754f859a.info
+          projectPath: Library\metadata\f7\f70518e633edf194297b2b20754f859a.info
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Library\metadata\fa
+        label: fa
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Library\metadata\fa\fa1524cc9ece1324fa9d93e307857081
+        label: fa1524cc9ece1324fa9d93e307857081
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library\metadata\fa\fa1524cc9ece1324fa9d93e307857081
+          fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\fa\fa1524cc9ece1324fa9d93e307857081
+          projectPath: Library\metadata\fa\fa1524cc9ece1324fa9d93e307857081
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Library\metadata\fa\fa1524cc9ece1324fa9d93e307857081.info
+        label: fa1524cc9ece1324fa9d93e307857081.info
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library\metadata\fa\fa1524cc9ece1324fa9d93e307857081.info
+          fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\fa\fa1524cc9ece1324fa9d93e307857081.info
+          projectPath: Library\metadata\fa\fa1524cc9ece1324fa9d93e307857081.info
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Library\ScriptAssemblies
+        label: ScriptAssemblies
+        level: 1
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+        label: Assembly-CSharp.dll
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library\ScriptAssemblies\Assembly-CSharp.dll
+          fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\ScriptAssemblies\Assembly-CSharp.dll
+          projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+        label: Assembly-CSharp.dll.mdb
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+          fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+          projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
           originalPath: 
           indexStatus: 0
           workTreeStatus: 3
@@ -1451,7 +2379,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 1
+        checkState: 0
         isLocked: 0
         gitStatusEntry:
           path: 
@@ -1469,7 +2397,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 1
+        checkState: 0
         isLocked: 0
         gitStatusEntry:
           path: ProjectSettings\TagManager.asset
@@ -1487,7 +2415,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 1
+        checkState: 0
         isLocked: 0
         gitStatusEntry:
           path: 
@@ -1505,7 +2433,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 1
+        checkState: 0
         isLocked: 0
         gitStatusEntry:
           path: 
@@ -1523,7 +2451,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 1
+        checkState: 0
         isLocked: 0
         gitStatusEntry:
           path: Temp\__Backupscenes\0.backup
@@ -1541,12 +2469,30 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 1
+        checkState: 0
         isLocked: 0
         gitStatusEntry:
           path: Temp\UnityLockfile
           fullPath: C:\Users\user\Documents\GitHub\Super Elois\Temp\UnityLockfile
           projectPath: Temp\UnityLockfile
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Temp\UnityTempFile-3ce11b575f419d54d9f41b1c25a4a3e8
+        label: UnityTempFile-3ce11b575f419d54d9f41b1c25a4a3e8
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Temp\UnityTempFile-3ce11b575f419d54d9f41b1c25a4a3e8
+          fullPath: C:\Users\user\Documents\GitHub\Super Elois\Temp\UnityTempFile-3ce11b575f419d54d9f41b1c25a4a3e8
+          projectPath: Temp\UnityTempFile-3ce11b575f419d54d9f41b1c25a4a3e8
           originalPath: 
           indexStatus: 1
           workTreeStatus: 1
@@ -1559,12 +2505,30 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 1
+        checkState: 0
         isLocked: 0
         gitStatusEntry:
           path: Temp\UnityTempFile-dc4809c40f77f974cae0bce658d0787e
           fullPath: C:\Users\user\Documents\GitHub\Super Elois\Temp\UnityTempFile-dc4809c40f77f974cae0bce658d0787e
           projectPath: Temp\UnityTempFile-dc4809c40f77f974cae0bce658d0787e
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Temp\UnityTempFile-e3bc437cd2188c44281d2e4810b41e2d
+        label: UnityTempFile-e3bc437cd2188c44281d2e4810b41e2d
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Temp\UnityTempFile-e3bc437cd2188c44281d2e4810b41e2d
+          fullPath: C:\Users\user\Documents\GitHub\Super Elois\Temp\UnityTempFile-e3bc437cd2188c44281d2e4810b41e2d
+          projectPath: Temp\UnityTempFile-e3bc437cd2188c44281d2e4810b41e2d
           originalPath: 
           indexStatus: 1
           workTreeStatus: 1
@@ -1588,9 +2552,33 @@ MonoBehaviour:
           indexStatus: 0
           workTreeStatus: 0
     gitStatusEntries:
+    - path: Library\assetDatabase3
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Library\CurrentMaximizeLayout.dwlt
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\CurrentMaximizeLayout.dwlt
+      projectPath: Library\CurrentMaximizeLayout.dwlt
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
     - path: Library\gfu\cache\branches.yaml
       fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\gfu\cache\branches.yaml
       projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
       originalPath: 
       indexStatus: 0
       workTreeStatus: 3
@@ -1606,9 +2594,171 @@ MonoBehaviour:
       originalPath: 
       indexStatus: 0
       workTreeStatus: 3
-    - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
-      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\shadercompiler-UnityShaderCompiler.exe0.log
-      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Library\InspectorExpandedItems.asset
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Library\metadata\00\00000000000000003000000000000000
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\00\00000000000000003000000000000000
+      projectPath: Library\metadata\00\00000000000000003000000000000000
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Library\metadata\00\00000000000000005100000000000000
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\00\00000000000000005100000000000000
+      projectPath: Library\metadata\00\00000000000000005100000000000000
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Library\metadata\00\00000000000000008000000000000000
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\00\00000000000000008000000000000000
+      projectPath: Library\metadata\00\00000000000000008000000000000000
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Library\metadata\00\00000000000000009000000000000000
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\00\00000000000000009000000000000000
+      projectPath: Library\metadata\00\00000000000000009000000000000000
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Library\metadata\54\54f0e92521961594f89dc3187000f511
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\54\54f0e92521961594f89dc3187000f511
+      projectPath: Library\metadata\54\54f0e92521961594f89dc3187000f511
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Library\metadata\54\54f0e92521961594f89dc3187000f511.info
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\54\54f0e92521961594f89dc3187000f511.info
+      projectPath: Library\metadata\54\54f0e92521961594f89dc3187000f511.info
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Library\metadata\58\58410e00a218bc64088b9f5c105715e3
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\58\58410e00a218bc64088b9f5c105715e3
+      projectPath: Library\metadata\58\58410e00a218bc64088b9f5c105715e3
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Library\metadata\58\58410e00a218bc64088b9f5c105715e3.info
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\58\58410e00a218bc64088b9f5c105715e3.info
+      projectPath: Library\metadata\58\58410e00a218bc64088b9f5c105715e3.info
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Library\metadata\6b\6b54f4332b173904c83ab470b1db6808
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\6b\6b54f4332b173904c83ab470b1db6808
+      projectPath: Library\metadata\6b\6b54f4332b173904c83ab470b1db6808
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Library\metadata\6b\6b54f4332b173904c83ab470b1db6808.info
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\6b\6b54f4332b173904c83ab470b1db6808.info
+      projectPath: Library\metadata\6b\6b54f4332b173904c83ab470b1db6808.info
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Library\metadata\79\79784a1219c30fd4d80731b660e6fadc
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\79\79784a1219c30fd4d80731b660e6fadc
+      projectPath: Library\metadata\79\79784a1219c30fd4d80731b660e6fadc
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Library\metadata\79\79784a1219c30fd4d80731b660e6fadc.info
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\79\79784a1219c30fd4d80731b660e6fadc.info
+      projectPath: Library\metadata\79\79784a1219c30fd4d80731b660e6fadc.info
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Library\metadata\92\92de4fad73cd4c443bceb82e153b5aca
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\92\92de4fad73cd4c443bceb82e153b5aca
+      projectPath: Library\metadata\92\92de4fad73cd4c443bceb82e153b5aca
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Library\metadata\98\9870eb4f7a41e624d9e6d7c663db8a00
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\98\9870eb4f7a41e624d9e6d7c663db8a00
+      projectPath: Library\metadata\98\9870eb4f7a41e624d9e6d7c663db8a00
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Library\metadata\98\9870eb4f7a41e624d9e6d7c663db8a00.info
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\98\9870eb4f7a41e624d9e6d7c663db8a00.info
+      projectPath: Library\metadata\98\9870eb4f7a41e624d9e6d7c663db8a00.info
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Library\metadata\c5\c54c43846f669624ba7e3d3ca6108598
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\c5\c54c43846f669624ba7e3d3ca6108598
+      projectPath: Library\metadata\c5\c54c43846f669624ba7e3d3ca6108598
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Library\metadata\ce\ceebc324c60f7314f9760981d0534e9c
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\ce\ceebc324c60f7314f9760981d0534e9c
+      projectPath: Library\metadata\ce\ceebc324c60f7314f9760981d0534e9c
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 5
+    - path: Library\metadata\ce\ceebc324c60f7314f9760981d0534e9c.info
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\ce\ceebc324c60f7314f9760981d0534e9c.info
+      projectPath: Library\metadata\ce\ceebc324c60f7314f9760981d0534e9c.info
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 5
+    - path: Library\metadata\e9\e9aa3ef89fb3850419160b71567df3d5
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\e9\e9aa3ef89fb3850419160b71567df3d5
+      projectPath: Library\metadata\e9\e9aa3ef89fb3850419160b71567df3d5
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Library\metadata\e9\e9aa3ef89fb3850419160b71567df3d5.info
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\e9\e9aa3ef89fb3850419160b71567df3d5.info
+      projectPath: Library\metadata\e9\e9aa3ef89fb3850419160b71567df3d5.info
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Library\metadata\f7\f70518e633edf194297b2b20754f859a
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\f7\f70518e633edf194297b2b20754f859a
+      projectPath: Library\metadata\f7\f70518e633edf194297b2b20754f859a
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Library\metadata\f7\f70518e633edf194297b2b20754f859a.info
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\f7\f70518e633edf194297b2b20754f859a.info
+      projectPath: Library\metadata\f7\f70518e633edf194297b2b20754f859a.info
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Library\metadata\fa\fa1524cc9ece1324fa9d93e307857081
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\fa\fa1524cc9ece1324fa9d93e307857081
+      projectPath: Library\metadata\fa\fa1524cc9ece1324fa9d93e307857081
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Library\metadata\fa\fa1524cc9ece1324fa9d93e307857081.info
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\metadata\fa\fa1524cc9ece1324fa9d93e307857081.info
+      projectPath: Library\metadata\fa\fa1524cc9ece1324fa9d93e307857081.info
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
       originalPath: 
       indexStatus: 0
       workTreeStatus: 3
@@ -1630,18 +2780,30 @@ MonoBehaviour:
       originalPath: 
       indexStatus: 1
       workTreeStatus: 1
+    - path: Temp\UnityTempFile-3ce11b575f419d54d9f41b1c25a4a3e8
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Temp\UnityTempFile-3ce11b575f419d54d9f41b1c25a4a3e8
+      projectPath: Temp\UnityTempFile-3ce11b575f419d54d9f41b1c25a4a3e8
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
     - path: Temp\UnityTempFile-dc4809c40f77f974cae0bce658d0787e
       fullPath: C:\Users\user\Documents\GitHub\Super Elois\Temp\UnityTempFile-dc4809c40f77f974cae0bce658d0787e
       projectPath: Temp\UnityTempFile-dc4809c40f77f974cae0bce658d0787e
       originalPath: 
       indexStatus: 1
       workTreeStatus: 1
-    changedFilesText: 8 changed files
+    - path: Temp\UnityTempFile-e3bc437cd2188c44281d2e4810b41e2d
+      fullPath: C:\Users\user\Documents\GitHub\Super Elois\Temp\UnityTempFile-e3bc437cd2188c44281d2e4810b41e2d
+      projectPath: Temp\UnityTempFile-e3bc437cd2188c44281d2e4810b41e2d
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    changedFilesText: 41 changed files
     lastCurrentBranchChangedEvent:
-      updatedTimeString: 2020-05-04T03:33:05.920+02:00
+      updatedTimeString: 2020-05-04T03:57:31.180+02:00
       cacheType: 1
     lastStatusEntriesChangedEvent:
-      updatedTimeString: 2020-05-04T03:33:20.825+02:00
+      updatedTimeString: 2020-05-04T20:33:18.498+02:00
       cacheType: 6
     lastLocksChangedEvent:
       updatedTimeString: 0001-01-01T00:00:00.000+00:00
@@ -18428,7 +19590,7 @@ MonoBehaviour:
   currentRemoteName: origin
   currentBranch: master
   currentRemoteUrl: https://github.com/theringsofsaturn/Super_Elois.git
-  statusAhead: 0
+  statusAhead: 1
   statusBehind: 0
   hasItemsToCommit: 1
   isTrackingRemoteBranch: 1
@@ -18441,13 +19603,13 @@ MonoBehaviour:
     m_Image: {fileID: 0}
     m_Tooltip: Url of the origin remote
   lastCurrentBranchAndRemoteChangedEvent:
-    updatedTimeString: 2020-05-04T03:33:05.920+02:00
+    updatedTimeString: 2020-05-04T03:57:31.180+02:00
     cacheType: 1
   lastTrackingStatusChangedEvent:
-    updatedTimeString: 2020-05-04T03:33:03.203+02:00
+    updatedTimeString: 2020-05-04T05:42:36.000+02:00
     cacheType: 5
   lastStatusEntriesChangedEvent:
-    updatedTimeString: 2020-05-04T03:30:50.550+02:00
+    updatedTimeString: 2020-05-04T05:42:35.707+02:00
     cacheType: 6
   pullButtonContent:
     m_Text: Pull

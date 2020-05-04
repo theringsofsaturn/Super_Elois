@@ -10,11 +10,11 @@ TagManager:
   - Snail
   - Spider
   - Frog
-  - Water
-  - Coin
   - GoldStoneFlower
   - GoldStone
   - Stone
+  - Water3
+  - Coin
   layers:
   - Default
   - TransparentFX
@@ -51,4 +51,7 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: New Layer
+    uniqueID: 3118830113
     locked: 0

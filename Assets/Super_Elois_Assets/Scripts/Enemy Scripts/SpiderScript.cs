@@ -31,7 +31,7 @@ public class SpiderScript : MonoBehaviour {
 	}
 
 	IEnumerator ChangeMovement() {
-		yield return new WaitForSeconds(Random.Range(2f, 5f));
+		yield return new WaitForSeconds(Random.Range(2f, 10f));
 
 		if(moveDirection == Vector3.down) {
 			moveDirection = Vector3.up;
